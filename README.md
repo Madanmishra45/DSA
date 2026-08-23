@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Madanmishra45/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Madanmishra45/DSA/tree/master/0013-roman-to-integer) |
 | [0387-first-unique-character-in-a-string](https://github.com/Madanmishra45/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [1927-sum-game](https://github.com/Madanmishra45/DSA/tree/master/1927-sum-game) |
 ## Queue
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Madanmishra45/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Madanmishra45/DSA/tree/master/0013-roman-to-integer) |
+| [1927-sum-game](https://github.com/Madanmishra45/DSA/tree/master/1927-sum-game) |
 ## Array
 |  |
 | ------- |
@@ -46,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/Madanmishra45/DSA/tree/master/0260-single-number-iii) |
+## Greedy
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Madanmishra45/DSA/tree/master/1927-sum-game) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Madanmishra45/DSA/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
