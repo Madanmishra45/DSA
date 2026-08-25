@@ -56,4 +56,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/Madanmishra45/DSA/tree/master/1927-sum-game) |
+## Depth-First Search
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Madanmishra45/DSA/tree/master/1192-critical-connections-in-a-network) |
+## Graph Theory
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Madanmishra45/DSA/tree/master/1192-critical-connections-in-a-network) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Madanmishra45/DSA/tree/master/1192-critical-connections-in-a-network) |
+## Bridge (Graph)
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Madanmishra45/DSA/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
