@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Madanmishra45/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1927-sum-game](https://github.com/Madanmishra45/DSA/tree/master/1927-sum-game) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Madanmishra45/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Madanmishra45/DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Queue
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Madanmishra45/DSA/tree/master/0031-next-permutation) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Madanmishra45/DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Binary Search
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Madanmishra45/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Madanmishra45/DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Minimax
 |  |
 | ------- |
