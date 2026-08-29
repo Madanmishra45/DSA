@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Madanmishra45/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0260-single-number-iii](https://github.com/Madanmishra45/DSA/tree/master/0260-single-number-iii) |
 | [2029-stone-game-ix](https://github.com/Madanmishra45/DSA/tree/master/2029-stone-game-ix) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Madanmishra45/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -101,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/Madanmishra45/DSA/tree/master/2029-stone-game-ix) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Madanmishra45/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Sorting
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Madanmishra45/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
