@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Madanmishra45/DSA/tree/master/0013-roman-to-integer) |
 | [0387-first-unique-character-in-a-string](https://github.com/Madanmishra45/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1927-sum-game](https://github.com/Madanmishra45/DSA/tree/master/1927-sum-game) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Madanmishra45/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Madanmishra45/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Madanmishra45/DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Queue
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Madanmishra45/DSA/tree/master/0260-single-number-iii) |
 | [2029-stone-game-ix](https://github.com/Madanmishra45/DSA/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Madanmishra45/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Madanmishra45/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Madanmishra45/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Madanmishra45/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Two Pointers
@@ -124,4 +126,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Madanmishra45/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Madanmishra45/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Madanmishra45/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
