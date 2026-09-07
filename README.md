@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Madanmishra45/DSA/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/Madanmishra45/DSA/tree/master/0115-distinct-subsequences) |
 | [0387-first-unique-character-in-a-string](https://github.com/Madanmishra45/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0940-distinct-subsequences-ii](https://github.com/Madanmishra45/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1143-longest-common-subsequence](https://github.com/Madanmishra45/DSA/tree/master/1143-longest-common-subsequence) |
 | [1927-sum-game](https://github.com/Madanmishra45/DSA/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Madanmishra45/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Madanmishra45/DSA/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/Madanmishra45/DSA/tree/master/0115-distinct-subsequences) |
 | [0322-coin-change](https://github.com/Madanmishra45/DSA/tree/master/0322-coin-change) |
+| [0940-distinct-subsequences-ii](https://github.com/Madanmishra45/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1143-longest-common-subsequence](https://github.com/Madanmishra45/DSA/tree/master/1143-longest-common-subsequence) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Madanmishra45/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Breadth-First Search
