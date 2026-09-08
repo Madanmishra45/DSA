@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Madanmishra45/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Madanmishra45/DSA/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/Madanmishra45/DSA/tree/master/0037-sudoku-solver) |
 | [0387-first-unique-character-in-a-string](https://github.com/Madanmishra45/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Madanmishra45/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Madanmishra45/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Madanmishra45/DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Madanmishra45/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Madanmishra45/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0037-sudoku-solver](https://github.com/Madanmishra45/DSA/tree/master/0037-sudoku-solver) |
 | [0260-single-number-iii](https://github.com/Madanmishra45/DSA/tree/master/0260-single-number-iii) |
 | [0322-coin-change](https://github.com/Madanmishra45/DSA/tree/master/0322-coin-change) |
 | [1288-remove-covered-intervals](https://github.com/Madanmishra45/DSA/tree/master/1288-remove-covered-intervals) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Madanmishra45/DSA/tree/master/0037-sudoku-solver) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Madanmishra45/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Longest Common Subsequence
 |  |
@@ -226,4 +229,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Madanmishra45/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Madanmishra45/DSA/tree/master/0037-sudoku-solver) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Madanmishra45/DSA/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Madanmishra45/DSA/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
