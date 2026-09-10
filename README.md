@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/Madanmishra45/DSA/tree/master/1192-critical-connections-in-a-network) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Madanmishra45/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Graph Theory
 |  |
 | ------- |
@@ -242,4 +243,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Madanmishra45/DSA/tree/master/0037-sudoku-solver) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Madanmishra45/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Madanmishra45/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
