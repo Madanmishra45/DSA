@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Madanmishra45/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Madanmishra45/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Madanmishra45/DSA/tree/master/0044-wildcard-matching) |
+| [0072-edit-distance](https://github.com/Madanmishra45/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Madanmishra45/DSA/tree/master/0115-distinct-subsequences) |
 | [0387-first-unique-character-in-a-string](https://github.com/Madanmishra45/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Madanmishra45/DSA/tree/master/0940-distinct-subsequences-ii) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Madanmishra45/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Madanmishra45/DSA/tree/master/0044-wildcard-matching) |
+| [0072-edit-distance](https://github.com/Madanmishra45/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Madanmishra45/DSA/tree/master/0115-distinct-subsequences) |
 | [0322-coin-change](https://github.com/Madanmishra45/DSA/tree/master/0322-coin-change) |
 | [0940-distinct-subsequences-ii](https://github.com/Madanmishra45/DSA/tree/master/0940-distinct-subsequences-ii) |
