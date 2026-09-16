@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Madanmishra45/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Madanmishra45/DSA/tree/master/0013-roman-to-integer) |
 | [0836-rectangle-overlap](https://github.com/Madanmishra45/DSA/tree/master/0836-rectangle-overlap) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Madanmishra45/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1927-sum-game](https://github.com/Madanmishra45/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Madanmishra45/DSA/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Madanmishra45/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Madanmishra45/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Madanmishra45/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Number Theory
 |  |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Madanmishra45/DSA/tree/master/0322-coin-change) |
 | [0940-distinct-subsequences-ii](https://github.com/Madanmishra45/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1143-longest-common-subsequence](https://github.com/Madanmishra45/DSA/tree/master/1143-longest-common-subsequence) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Madanmishra45/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Madanmishra45/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Madanmishra45/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Madanmishra45/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Madanmishra45/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3904-smallest-stable-index-ii](https://github.com/Madanmishra45/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Stack
 |  |
