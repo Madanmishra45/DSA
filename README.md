@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Madanmishra45/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Madanmishra45/DSA/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/Madanmishra45/DSA/tree/master/0062-unique-paths) |
 | [0836-rectangle-overlap](https://github.com/Madanmishra45/DSA/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Madanmishra45/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Madanmishra45/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Madanmishra45/DSA/tree/master/0062-unique-paths) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Madanmishra45/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Madanmishra45/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Number Theory
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Madanmishra45/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Madanmishra45/DSA/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Madanmishra45/DSA/tree/master/0044-wildcard-matching) |
+| [0062-unique-paths](https://github.com/Madanmishra45/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Madanmishra45/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Madanmishra45/DSA/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Madanmishra45/DSA/tree/master/0072-edit-distance) |
