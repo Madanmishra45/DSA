@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Madanmishra45/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/Madanmishra45/DSA/tree/master/0037-sudoku-solver) |
 | [0387-first-unique-character-in-a-string](https://github.com/Madanmishra45/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [1096-brace-expansion-ii](https://github.com/Madanmishra45/DSA/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Madanmishra45/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Madanmishra45/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Madanmishra45/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Madanmishra45/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/Madanmishra45/DSA/tree/master/0402-remove-k-digits) |
 | [0940-distinct-subsequences-ii](https://github.com/Madanmishra45/DSA/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/Madanmishra45/DSA/tree/master/1096-brace-expansion-ii) |
 | [1143-longest-common-subsequence](https://github.com/Madanmishra45/DSA/tree/master/1143-longest-common-subsequence) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Madanmishra45/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Madanmishra45/DSA/tree/master/1927-sum-game) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/Madanmishra45/DSA/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/Madanmishra45/DSA/tree/master/1288-remove-covered-intervals) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Madanmishra45/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Madanmishra45/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/Madanmishra45/DSA/tree/master/0322-coin-change) |
 | [0994-rotting-oranges](https://github.com/Madanmishra45/DSA/tree/master/0994-rotting-oranges) |
+| [1096-brace-expansion-ii](https://github.com/Madanmishra45/DSA/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Madanmishra45/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Knapsack Problem
 |  |
@@ -274,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Madanmishra45/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Madanmishra45/DSA/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/Madanmishra45/DSA/tree/master/0402-remove-k-digits) |
+| [1096-brace-expansion-ii](https://github.com/Madanmishra45/DSA/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -300,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Madanmishra45/DSA/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Madanmishra45/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Madanmishra45/DSA/tree/master/0078-subsets) |
+| [1096-brace-expansion-ii](https://github.com/Madanmishra45/DSA/tree/master/1096-brace-expansion-ii) |
 ## Algorithm X
 |  |
 | ------- |
