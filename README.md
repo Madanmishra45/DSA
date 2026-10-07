@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Madanmishra45/DSA/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Madanmishra45/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Madanmishra45/DSA/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/Madanmishra45/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/Madanmishra45/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/Madanmishra45/DSA/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/Madanmishra45/DSA/tree/master/0678-valid-parenthesis-string) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Madanmishra45/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Madanmishra45/DSA/tree/master/0322-coin-change) |
 | [0994-rotting-oranges](https://github.com/Madanmishra45/DSA/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/Madanmishra45/DSA/tree/master/1096-brace-expansion-ii) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Madanmishra45/DSA/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Madanmishra45/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Madanmishra45/DSA/tree/master/0078-subsets) |
+| [0301-remove-invalid-parentheses](https://github.com/Madanmishra45/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Madanmishra45/DSA/tree/master/1096-brace-expansion-ii) |
 ## Algorithm X
 |  |
