@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Madanmishra45/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Madanmishra45/DSA/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Madanmishra45/DSA/tree/master/0078-subsets) |
+| [0085-maximal-rectangle](https://github.com/Madanmishra45/DSA/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Madanmishra45/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0260-single-number-iii](https://github.com/Madanmishra45/DSA/tree/master/0260-single-number-iii) |
 | [0322-coin-change](https://github.com/Madanmishra45/DSA/tree/master/0322-coin-change) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Madanmishra45/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Madanmishra45/DSA/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Madanmishra45/DSA/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/Madanmishra45/DSA/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/Madanmishra45/DSA/tree/master/0115-distinct-subsequences) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Madanmishra45/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0233-number-of-digit-one](https://github.com/Madanmishra45/DSA/tree/master/0233-number-of-digit-one) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Madanmishra45/DSA/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/Madanmishra45/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Madanmishra45/DSA/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/Madanmishra45/DSA/tree/master/0085-maximal-rectangle) |
 | [0835-image-overlap](https://github.com/Madanmishra45/DSA/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/Madanmishra45/DSA/tree/master/0994-rotting-oranges) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Madanmishra45/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Madanmishra45/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Madanmishra45/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Madanmishra45/DSA/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/Madanmishra45/DSA/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/Madanmishra45/DSA/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/Madanmishra45/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Madanmishra45/DSA/tree/master/0856-score-of-parentheses) |
@@ -416,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Madanmishra45/DSA/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/Madanmishra45/DSA/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/Madanmishra45/DSA/tree/master/0402-remove-k-digits) |
 ## String Matching
 |  |
