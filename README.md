@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Madanmishra45/DSA/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Madanmishra45/DSA/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/Madanmishra45/DSA/tree/master/0085-maximal-rectangle) |
+| [0118-pascals-triangle](https://github.com/Madanmishra45/DSA/tree/master/0118-pascals-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Madanmishra45/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0260-single-number-iii](https://github.com/Madanmishra45/DSA/tree/master/0260-single-number-iii) |
 | [0322-coin-change](https://github.com/Madanmishra45/DSA/tree/master/0322-coin-change) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Madanmishra45/DSA/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Madanmishra45/DSA/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/Madanmishra45/DSA/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/Madanmishra45/DSA/tree/master/0118-pascals-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Madanmishra45/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Madanmishra45/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0233-number-of-digit-one](https://github.com/Madanmishra45/DSA/tree/master/0233-number-of-digit-one) |
