@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Madanmishra45/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1192-critical-connections-in-a-network](https://github.com/Madanmishra45/DSA/tree/master/1192-critical-connections-in-a-network) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Madanmishra45/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Graph Theory
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Madanmishra45/DSA/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/Madanmishra45/DSA/tree/master/0115-distinct-subsequences) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Madanmishra45/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Madanmishra45/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0233-number-of-digit-one](https://github.com/Madanmishra45/DSA/tree/master/0233-number-of-digit-one) |
 | [0322-coin-change](https://github.com/Madanmishra45/DSA/tree/master/0322-coin-change) |
 | [0678-valid-parenthesis-string](https://github.com/Madanmishra45/DSA/tree/master/0678-valid-parenthesis-string) |
@@ -402,10 +404,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Madanmishra45/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Madanmishra45/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Madanmishra45/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Madanmishra45/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Sliding Window
 |  |
@@ -449,4 +453,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Madanmishra45/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Madanmishra45/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Madanmishra45/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
