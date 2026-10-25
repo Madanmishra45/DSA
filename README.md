@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Madanmishra45/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Madanmishra45/DSA/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/Madanmishra45/DSA/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/Madanmishra45/DSA/tree/master/0070-climbing-stairs) |
 | [0233-number-of-digit-one](https://github.com/Madanmishra45/DSA/tree/master/0233-number-of-digit-one) |
 | [0836-rectangle-overlap](https://github.com/Madanmishra45/DSA/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Madanmishra45/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Madanmishra45/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Madanmishra45/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Madanmishra45/DSA/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/Madanmishra45/DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Madanmishra45/DSA/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Madanmishra45/DSA/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/Madanmishra45/DSA/tree/master/0115-distinct-subsequences) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Madanmishra45/DSA/tree/master/0070-climbing-stairs) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Madanmishra45/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
 |  |
