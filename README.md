@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Madanmishra45/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/Madanmishra45/DSA/tree/master/0037-sudoku-solver) |
 | [0139-word-break](https://github.com/Madanmishra45/DSA/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Madanmishra45/DSA/tree/master/0140-word-break-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Madanmishra45/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1096-brace-expansion-ii](https://github.com/Madanmishra45/DSA/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Madanmishra45/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Madanmishra45/DSA/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Madanmishra45/DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Madanmishra45/DSA/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Madanmishra45/DSA/tree/master/0140-word-break-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/Madanmishra45/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/Madanmishra45/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/Madanmishra45/DSA/tree/master/0402-remove-k-digits) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Madanmishra45/DSA/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Madanmishra45/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0139-word-break](https://github.com/Madanmishra45/DSA/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Madanmishra45/DSA/tree/master/0140-word-break-ii) |
 | [0260-single-number-iii](https://github.com/Madanmishra45/DSA/tree/master/0260-single-number-iii) |
 | [0322-coin-change](https://github.com/Madanmishra45/DSA/tree/master/0322-coin-change) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Madanmishra45/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Madanmishra45/DSA/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Madanmishra45/DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Madanmishra45/DSA/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Madanmishra45/DSA/tree/master/0140-word-break-ii) |
 | [0233-number-of-digit-one](https://github.com/Madanmishra45/DSA/tree/master/0233-number-of-digit-one) |
 | [0322-coin-change](https://github.com/Madanmishra45/DSA/tree/master/0322-coin-change) |
 | [0678-valid-parenthesis-string](https://github.com/Madanmishra45/DSA/tree/master/0678-valid-parenthesis-string) |
@@ -484,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Madanmishra45/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Madanmishra45/DSA/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/Madanmishra45/DSA/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/Madanmishra45/DSA/tree/master/0140-word-break-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/Madanmishra45/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Madanmishra45/DSA/tree/master/1096-brace-expansion-ii) |
 ## Algorithm X
@@ -567,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Madanmishra45/DSA/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Madanmishra45/DSA/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Madanmishra45/DSA/tree/master/0140-word-break-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Madanmishra45/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
 |  |
@@ -580,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Madanmishra45/DSA/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Madanmishra45/DSA/tree/master/0140-word-break-ii) |
 ## Brute-Force Search
 |  |
 | ------- |
