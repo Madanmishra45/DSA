@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Madanmishra45/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0139-word-break](https://github.com/Madanmishra45/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Madanmishra45/DSA/tree/master/0140-word-break-ii) |
+| [0152-maximum-product-subarray](https://github.com/Madanmishra45/DSA/tree/master/0152-maximum-product-subarray) |
 | [0260-single-number-iii](https://github.com/Madanmishra45/DSA/tree/master/0260-single-number-iii) |
 | [0322-coin-change](https://github.com/Madanmishra45/DSA/tree/master/0322-coin-change) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Madanmishra45/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/Madanmishra45/DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Madanmishra45/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Madanmishra45/DSA/tree/master/0140-word-break-ii) |
+| [0152-maximum-product-subarray](https://github.com/Madanmishra45/DSA/tree/master/0152-maximum-product-subarray) |
 | [0233-number-of-digit-one](https://github.com/Madanmishra45/DSA/tree/master/0233-number-of-digit-one) |
 | [0322-coin-change](https://github.com/Madanmishra45/DSA/tree/master/0322-coin-change) |
 | [0678-valid-parenthesis-string](https://github.com/Madanmishra45/DSA/tree/master/0678-valid-parenthesis-string) |
