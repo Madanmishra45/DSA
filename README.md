@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Madanmishra45/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Madanmishra45/DSA/tree/master/0070-climbing-stairs) |
 | [0233-number-of-digit-one](https://github.com/Madanmishra45/DSA/tree/master/0233-number-of-digit-one) |
+| [0279-perfect-squares](https://github.com/Madanmishra45/DSA/tree/master/0279-perfect-squares) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Madanmishra45/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Madanmishra45/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/Madanmishra45/DSA/tree/master/0836-rectangle-overlap) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Madanmishra45/DSA/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Madanmishra45/DSA/tree/master/0152-maximum-product-subarray) |
 | [0233-number-of-digit-one](https://github.com/Madanmishra45/DSA/tree/master/0233-number-of-digit-one) |
+| [0279-perfect-squares](https://github.com/Madanmishra45/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Madanmishra45/DSA/tree/master/0322-coin-change) |
 | [0678-valid-parenthesis-string](https://github.com/Madanmishra45/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Madanmishra45/DSA/tree/master/0940-distinct-subsequences-ii) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Madanmishra45/DSA/tree/master/0279-perfect-squares) |
 | [0301-remove-invalid-parentheses](https://github.com/Madanmishra45/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Madanmishra45/DSA/tree/master/0322-coin-change) |
 | [0994-rotting-oranges](https://github.com/Madanmishra45/DSA/tree/master/0994-rotting-oranges) |
@@ -407,10 +410,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Madanmishra45/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Madanmishra45/DSA/tree/master/0322-coin-change) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Madanmishra45/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Madanmishra45/DSA/tree/master/0322-coin-change) |
 ## Matrix
 |  |
