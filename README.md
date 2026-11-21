@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Madanmishra45/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Madanmishra45/DSA/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Madanmishra45/DSA/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Madanmishra45/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0260-single-number-iii](https://github.com/Madanmishra45/DSA/tree/master/0260-single-number-iii) |
 | [0322-coin-change](https://github.com/Madanmishra45/DSA/tree/master/0322-coin-change) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Madanmishra45/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Madanmishra45/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Madanmishra45/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Madanmishra45/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Madanmishra45/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Madanmishra45/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Madanmishra45/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
